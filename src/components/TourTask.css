@@ -1,0 +1,55 @@
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.HeadLine{
+    height: 2px;
+    width: 20%;
+    background-color: blue;
+}
+.sectionImg{
+    width: 100%;
+
+}
+.namePrice{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.tourPrice{
+    height: auto;
+    width: auto;
+    background-color: aquamarine;
+    font-size: 30px;
+    padding: 0.2%;
+    margin-left: 2%;
+}
+.tourName{
+    font-size: 25px;
+}
+.notInterestBtn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    margin-left: 35%;
+
+}
+.notInterestButton{
+    border: 2px solid red;
+    height: auto;
+    width: auto;
+    font-weight: 800;
+    padding: 10px;
+    color: red;
+    width:100% ;
+
+}
+.contentRead{
+    font-size: 20px;
+    margin-left: 10px;
+    color: red;
+    font-weight: bolder;
+}
